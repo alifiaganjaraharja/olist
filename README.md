@@ -22,6 +22,22 @@ This project utilizes a real public dataset from the Brazilian e-commerce compan
 
 Question 1: Order Statuses - What is the breakdown of orders by their status (e.g., delivered, shipped, canceled)?
 
+| **Order Status**            | **Total**        |
+|-----------------------------|------------------|
+| Delivered                   | 96478            |
+| Shipped                     | 1107             |
+| Canceled                    | 625              |
+| Unavailable                 | 609              |
+| Invoiced                    | 314              |
+| Processing                  | 301              |
+| Created                     | 5                |
+| Approved                    | 2                |
+See visualization [here](https://github.com/alifiaganjaraharja/chinook/blob/main/%5BVisualization%5D-Question1.pdf)
+
+
+
+
+
 
 
 
