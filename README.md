@@ -32,6 +32,7 @@ Question 1: Order Statuses - What is the breakdown of orders by their status (e.
 | Processing                  | 301              |
 | Created                     | 5                |
 | Approved                    | 2                |
+
 See visualization [here](https://github.com/alifiaganjaraharja/chinook/blob/main/%5BVisualization%5D-Question1.pdf)
 
 
