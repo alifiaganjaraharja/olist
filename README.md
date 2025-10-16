@@ -55,6 +55,10 @@ Question 2: Payment Methods - What are the most popular payment methods? Does th
 
 See visualization [here](https://github.com/alifiaganjaraharja/olist/blob/main/%5BOlist%5D-Question2.pdf)
 
+Question 3: Geographic Performance - Which states have the highest number of customers and the highest total sales?
+
+
+
 
 
 
