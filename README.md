@@ -33,10 +33,27 @@ Question 1: Order Statuses - What is the breakdown of orders by their status (e.
 | Created                     | 5                |
 | Approved                    | 2                |
 
-See visualization [here](https://github.com/alifiaganjaraharja/chinook/blob/main/%5BVisualization%5D-Question1.pdf)
+See visualization [here](https://github.com/alifiaganjaraharja/olist/blob/main/%5BOlist%5D-Question1.pdf)
 
+Question 2: Payment Methods - What are the most popular payment methods? Does this vary by the order value?
 
+| **Order Value Tier**  | **Payment Type** | **Number of Orders**   |
+|-----------------------|------------------|------------------------|
+| Large                 | Boleto           | 4365                   |
+| Large                 | Credit Card      | 20867                  |
+| Large                 | Debit Card       | 332                    |
+| Large                 | Voucher          | 397                    |
+| Medium                | Boleto           | 4955                   |
+| Medium                | Credit Card      | 20019                  |
+| Medium                | Debit Card       | 343                    |
+| Medium                | Voucher          | 498                    |
+| Small                 | Boleto           | 10464                  |
+| Small                 | Credit Card      | 35909                  |
+| Small                 | Debit Card       | 854                    |
+| Small                 | not defined      | 3                      |
+| Small                 | Voucher          | 4880                   |
 
+See visualization [here](https://github.com/alifiaganjaraharja/olist/blob/main/%5BOlist%5D-Question1.pdf)
 
 
 
