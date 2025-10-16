@@ -53,7 +53,7 @@ Question 2: Payment Methods - What are the most popular payment methods? Does th
 | Small                 | not defined      | 3                      |
 | Small                 | Voucher          | 4880                   |
 
-See visualization [here](https://github.com/alifiaganjaraharja/olist/blob/main/%5BOlist%5D-Question1.pdf)
+See visualization [here](https://github.com/alifiaganjaraharja/olist/blob/main/%5BOlist%5D-Question2.pdf)
 
 
 
