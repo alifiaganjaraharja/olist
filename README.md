@@ -57,8 +57,22 @@ See visualization [here](https://github.com/alifiaganjaraharja/olist/blob/main/%
 
 Question 3: Geographic Performance - Which states have the highest number of customers and the highest total sales?
 
+| **Customer State**  | **Number of Customer** | **Total Sales**   |
+|---------------------|------------------------|-------------------|
+| SP                  | 40301                  | 5998227.0         |
+| RJ                  | 12384                  | 2144380.0         |
+| MG                  | 11259                  | 1872257.0         |
+| RS                  | 5277                   | 890899.0          |
+| PR                  | 4882                   | 811156.0          |
+| SC                  | 3534                   | 623086.0          |
+| BA                  | 3277                   | 616646.0          |
+| DF                  | 2075                   | 355141.0          |
+| GO                  | 1852                   | 350092.0          |
+| ES                  | 1964                   | 325968.0          |
 
+See visualization [here](https://github.com/alifiaganjaraharja/olist/blob/main/%5BOlist%5D-Question2.pdf)
 
+Question 4: Delivery Performance - What is the average time between a customer placing an order and the order being delivered? Are we meeting our delivery estimates?
 
 
 
