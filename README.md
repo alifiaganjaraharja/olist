@@ -70,10 +70,27 @@ Question 3: Geographic Performance - Which states have the highest number of cus
 | GO                  | 1852                   | 350092.0          |
 | ES                  | 1964                   | 325968.0          |
 
-See visualization [here](https://github.com/alifiaganjaraharja/olist/blob/main/%5BOlist%5D-Question2.pdf)
+See visualization [here](https://github.com/alifiaganjaraharja/olist/blob/main/%5BOlist%5D%20-%20Question3.pdf)
 
 Question 4: Delivery Performance - What is the average time between a customer placing an order and the order being delivered? Are we meeting our delivery estimates?
 
+| **Average Delivery Time**  | **Average Days Early** | **On Time Delivery Percentage**   |
+|----------------------------|------------------------|-----------------------------------|
+| 12.13                      | 11.18                  | 91.89                             |
 
+Question 5: Product Categories - Which product categories generate the most revenue?
 
+| **Product Category Name**  | **Product Category Name English** | **Total Sales**   |
+|----------------------------|-----------------------------------|-------------------|
+| cama_mesa_banho            | bed_bath_table                    | 11115             |
+| beleza_saude               | health_beauty                     | 9670              |
+| esporte_lazer              | sports_leisure                    | 8641              |
+| moveis_decoracao           | furniture_decor                   | 8334              |
+| informatica_acessorios     | cimputers_accessories             | 7827              |
+| utilidades_domesticas      | housewares                        | 6964              |
+| relogios_presentes         | watches_gifts                     | 5991              |
+| telefonia                  | telephony                         | 4545              |
+| ferramentas_jardim         | garden_tools                      | 4347              |
+| automotivo                 | auto                              | 4235              |
 
+See visualization [here](https://github.com/alifiaganjaraharja/olist/blob/main/%5BOlist%5D%20-%20Question3.pdf)
