@@ -3,7 +3,7 @@ By Alifia Ganjaraharja
 
 This repository contains a data analysis project that utilizes SQL to examine customer behavior on an e-commerce website. This project utilizes a real public dataset from the Brazilian e-commerce company Olist. 
 
-## Project Overview:
+## Project Overview
 This project utilizes a real public dataset from the Brazilian e-commerce company, Olist. It's great for practicing more complex joins and subqueries.
 1. **Goals**: Understand the customer journey and identify opportunities to improve sales and customer satisfaction.
 
