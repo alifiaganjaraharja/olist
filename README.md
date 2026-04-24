@@ -59,16 +59,16 @@ Question 3: Geographic Performance - Which states have the highest number of cus
 
 | **Customer State**  | **Number of Customer** | **Total Sales**   |
 |---------------------|------------------------|-------------------|
-| SP                  | 40301                  | 5998227.0         |
-| RJ                  | 12384                  | 2144380.0         |
-| MG                  | 11259                  | 1872257.0         |
-| RS                  | 5277                   | 890899.0          |
-| PR                  | 4882                   | 811156.0          |
-| SC                  | 3534                   | 623086.0          |
-| BA                  | 3277                   | 616646.0          |
-| DF                  | 2075                   | 355141.0          |
-| GO                  | 1852                   | 350092.0          |
-| ES                  | 1964                   | 325968.0          |
+| SP                  | 40301                  | 5998227           |
+| RJ                  | 12384                  | 2144380           |
+| MG                  | 11259                  | 1872257           |
+| RS                  | 5277                   | 890899            |
+| PR                  | 4882                   | 811156            |
+| SC                  | 3534                   | 623086            |
+| BA                  | 3277                   | 616646            |
+| DF                  | 2075                   | 355141            |
+| GO                  | 1852                   | 350092            |
+| ES                  | 1964                   | 325968            |
 
 See visualization [here](https://github.com/alifiaganjaraharja/olist/blob/main/%5BOlist%5D%20-%20Question3.pdf)
 
@@ -76,7 +76,7 @@ Question 4: Delivery Performance - What is the average time between a customer p
 
 | **Average Delivery Time**  | **Average Days Early** | **On Time Delivery Percentage**   |
 |----------------------------|------------------------|-----------------------------------|
-| 12.13                      | 11.18                  | 91.89                             |
+| 12.13                      | 11                     | 91.89%                            |
 
 Question 5: Product Categories - Which product categories generate the most revenue?
 
