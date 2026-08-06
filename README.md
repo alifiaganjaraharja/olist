@@ -14,17 +14,12 @@ Database & Querying: SQLite (Complex JOINs, Aggregations, Window Functions, Case
 
 Data Visualization: Looker
 
-Dataset: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)(100k+ orders across multiple relational tables)
+Dataset: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (100k+ orders across multiple relational tables)
 
 ## Key Insights & Recommendations
 1. Order Status & Fulfillment Health
    - Insight: 96.8% of total orders ($96,478$) are successfully delivered. Cancellations ($625$) and unavailable orders ($609$) combined account for less than 1.3% of overall platform activity, signaling a strong overall fulfillment process.
    - Recommendation: Monitor seller inventory levels for "Unavailable" items to further minimize pre-order drop-off rates.
-
-
-## Result and Findings
-
-Question 1: Order Statuses - What is the breakdown of orders by their status (e.g., delivered, shipped, canceled)?
 
 | **Order Status**            | **Total**        |
 |-----------------------------|------------------|
@@ -39,7 +34,9 @@ Question 1: Order Statuses - What is the breakdown of orders by their status (e.
 
 See visualization [here](https://github.com/alifiaganjaraharja/olist/blob/main/%5BOlist%5D-Question1.pdf)
 
-Question 2: Payment Methods - What are the most popular payment methods? Does this vary by the order value?
+2. Payment Method Dynamics by Order Value
+   - Insight: Credit Card is the overwhelmingly preferred payment method across all basket sizes (Small, Medium, Large), accounting for over 60% of total transactions. Boleto (cash payment voucher) remains a steady second choice, representing ~20-25% of sales across all tiers.
+   - Recommendation: Partner with credit card vendors to offer seamless installment options for "Large" order tiers to reduce cart abandonment.
 
 | **Order Value Tier**  | **Payment Type** | **Number of Orders**   |
 |-----------------------|------------------|------------------------|
