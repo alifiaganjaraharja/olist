@@ -56,7 +56,9 @@ See visualization [here](https://github.com/alifiaganjaraharja/olist/blob/main/%
 
 See visualization [here](https://github.com/alifiaganjaraharja/olist/blob/main/%5BOlist%5D-Question2.pdf)
 
-Question 3: Geographic Performance - Which states have the highest number of customers and the highest total sales?
+3. Geographic Sales Breakdown
+   - Insight: São Paulo (SP) is Olist’s primary market hub, accounting for 40,301 customers and driving nearly R$ 6.0M in sales (approx. 40% of overall revenue). The top 3 states (SP, RJ, MG) account for the vast majority of total sales volume.
+   - Recommendation: Prioritize logistics infrastructure and local seller onboarding in the Southeast region (SP, RJ, MG) to lower shipping costs and delivery times for top-tier hubs.
 
 | **Customer State**  | **Number of Customer** | **Total Sales (IN R$)**  |
 |---------------------|------------------------|--------------------------|
@@ -73,15 +75,19 @@ Question 3: Geographic Performance - Which states have the highest number of cus
 
 See visualization [here](https://github.com/alifiaganjaraharja/olist/blob/main/%5BOlist%5D%20-%20Question3.pdf)
 
-Question 4: Delivery Performance - What is the average time between a customer placing an order and the order being delivered? Are we meeting our delivery estimates?
+4. Delivery & Logistics Performance
+   - Insight: Olist maintains an outstanding 91.89% On-Time Delivery Rate. On average, customers receive their orders in 12 days, which beats estimated delivery promises by an average of 11 days early.
+   - Recommendation: Adjust estimated delivery date algorithms to be slightly more aggressive, as setting realistic, faster shipping estimates can increase checkout conversion rates.
 
 | **Average Delivery Time**  | **Average Days Early** | **On Time Delivery Percentage**   |
 |----------------------------|------------------------|-----------------------------------|
 | 12                         | 11                     | 91.89%                            |
 
-Question 5: Product Categories - Which product categories generate the most revenue?
+5. Top Revenue-Generating Product Categories
+   - Insight: Bed, Bath & Table (cama_mesa_banho) leads total revenue generation (R$ 11,115), followed closely by Health & Beauty (beleza_saude) and Sports & Leisure (esporte_lazer).
+   - Recommendation: Run targeted cross-selling campaigns bundling high-performing lifestyle categories (e.g., Home Decor + Bed & Bath).
 
-| **Product Category Name**  | **Product Category Name English** | **Total Sales (In R$)**   |
+| **Product Category Name**  | **Product Category Name English** | **Total Sales (In R$)**  |
 |----------------------------|-----------------------------------|--------------------------|
 | cama_mesa_banho            | bed_bath_table                    | R$ 11,115                |
 | beleza_saude               | health_beauty                     | R$ 9,670                 |
