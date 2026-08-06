@@ -9,25 +9,18 @@ By analyzing historical order data using SQLite and Looker, this study identifie
 ## Business Problem & Objectives
 As an e-commerce platform connecting small merchants to Brazilian consumers, Olist needs to continuously optimize its supply chain, improve payment flexibility, and focus marketing budgets on high-value product categories.
 
+## Tools Used
+Database & Querying: SQLite (Complex JOINs, Aggregations, Window Functions, Case Statements)
 
+Data Visualization: Looker
 
+Dataset: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)(100k+ orders across multiple relational tables)
 
+## Key Insights & Recommendations
+1. Order Status & Fulfillment Health
+   Insight: 96.8% of total orders ($96,478$) are successfully delivered. Cancellations ($625$) and unavailable orders ($609$) combined account for less than 1.3% of overall platform activity, signaling a strong overall fulfillment process.
+   Recommendation: Monitor seller inventory levels for "Unavailable" items to further minimize pre-order drop-off rates.
 
-
-## Project Overview
-This project utilizes a real public dataset from the Brazilian e-commerce company Olist. It's great for practicing more complex joins and subqueries.
-1. **Goals**: Understand the customer journey and identify opportunities to improve sales and customer satisfaction.
-
-   **Sample Questions to Answer**:
-    - Order Statuses: *What is the breakdown of orders by their status (e.g., delivered, shipped, canceled)?*
-    - Payment Methods: *What are the most popular payment methods? Does this vary by the order value?*
-    - Geographic Performance: *Which states have the highest number of customers and the highest total sales?*
-    - Delivery Performance: *What is the average time between a customer placing an order and the order being delivered? Are we meeting our delivery estimates?*
-    - Product Categories: *Which product categories generate the most revenue?*
-      
-2. **Dataset**: The "Brazilian E-commerce Dataset by Olist" is available on Kaggle. You can access it [here](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). It's a rich dataset comprising multiple tables that cover orders, products, customers, and reviews.
-
-3. **Tools Used**: SQLite and Looker
 
 ## Result and Findings
 
