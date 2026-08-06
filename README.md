@@ -18,8 +18,8 @@ Dataset: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/d
 
 ## Key Insights & Recommendations
 1. Order Status & Fulfillment Health
-   Insight: 96.8% of total orders ($96,478$) are successfully delivered. Cancellations ($625$) and unavailable orders ($609$) combined account for less than 1.3% of overall platform activity, signaling a strong overall fulfillment process.
-   Recommendation: Monitor seller inventory levels for "Unavailable" items to further minimize pre-order drop-off rates.
+   - Insight: 96.8% of total orders ($96,478$) are successfully delivered. Cancellations ($625$) and unavailable orders ($609$) combined account for less than 1.3% of overall platform activity, signaling a strong overall fulfillment process.
+   - Recommendation: Monitor seller inventory levels for "Unavailable" items to further minimize pre-order drop-off rates.
 
 
 ## Result and Findings
